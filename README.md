@@ -12,7 +12,13 @@
 
 # Description
 
-This sample is part of the [Learn Forge](http://learnforge.autodesk.io) tutorials.
+This is a experimental project with the idea of adding forge viewer and related UI components dynamically into the webpage.
+Under the hood it uses [gridstack](https://gridstackjs.com/) our other sample https://github.com/cyrillef/node-red-node-forge uses UI components to simulate forge APIs, this sample is to simulate new UI components on a model.
+
+# How it works
+
+This sample is built on top of our basic [learnforge](https://learnforge.autodesk.io). Unique thing about this poject is mostly in [ForgeGridStack.js](https://github.com/libvarun/forge-stacks/blob/master/public/js/ForgeGridStack.js).
+Each stack has it's own array, which consists of basic data like default URN, defaut property, associated functions etc.
 
 # Setup
 
@@ -24,7 +30,7 @@ Install [NodeJS](https://nodejs.org).
 
 Clone this project or download it. It's recommended to install [GitHub Desktop](https://desktop.github.com/). To clone it via command line, use the following (**Terminal** on MacOSX/Linux, **Git Shell** on Windows):
 
-    git clone https://git.autodesk.com/patilva/forge-stacks.git
+    git clone https://github.com/libvarun/forge-stacks.git
     git checkout nodejs
 
 To run it, install the required packages, set the enviroment variables with your client ID & Secret and finally start it. Via command line, navigate to the folder where this repository was cloned to and use the following commands:
