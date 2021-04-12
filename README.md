@@ -10,6 +10,8 @@
 [![OSS](https://img.shields.io/badge/OSS-v2-green.svg)](http://developer.autodesk.com/)
 [![Model-Derivative](https://img.shields.io/badge/Model%20Derivative-v2-green.svg)](http://developer.autodesk.com/)
 
+![thumbnail](https://github.com/libvarun/forge-stacks/thumbnail.gif)
+
 # Description
 
 This is a experimental project with the idea of adding forge viewer and related UI components dynamically into the webpage.
