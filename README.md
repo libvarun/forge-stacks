@@ -10,7 +10,7 @@
 [![OSS](https://img.shields.io/badge/OSS-v2-green.svg)](http://developer.autodesk.com/)
 [![Model-Derivative](https://img.shields.io/badge/Model%20Derivative-v2-green.svg)](http://developer.autodesk.com/)
 
-![thumbnail](https://github.com/libvarun/forge-stacks/thumbnail.gif)
+![thumbnail](https://github.com/libvarun/forge-stacks/blob/32311577d8ae5adb46d5f239165fc18cdc52e581/thumbnail.gif)
 
 # Description
 
